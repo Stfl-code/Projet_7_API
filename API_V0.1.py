@@ -5,6 +5,7 @@ import mlflow.pyfunc
 import json
 from sklearn.preprocessing import OneHotEncoder
 import re
+from lightgbm import LGBMClassifier
 
 # Chargement du modèle MLflow
 @st.cache_resource
