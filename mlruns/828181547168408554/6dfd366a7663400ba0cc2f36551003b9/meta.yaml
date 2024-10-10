@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/828181547168408554/6dfd366a7663400ba0cc2f36551003b9/artifacts
+end_time: 1725710784478
+entry_point_name: ''
+experiment_id: '828181547168408554'
+lifecycle_stage: active
+run_id: 6dfd366a7663400ba0cc2f36551003b9
+run_name: apples_rf_test
+run_uuid: 6dfd366a7663400ba0cc2f36551003b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725710777495
+status: 3
+tags: []
+user_id: steph

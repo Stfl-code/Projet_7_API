@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728487742256
+current_stage: None
+description: ''
+last_updated_timestamp: 1728487742256
+name: LightGBM BayesOpt - Hyperparameter Tuning
+run_id: 00f5ea7752044328a3b56cb331f0782d
+run_link: ''
+source: mlflow-artifacts:/117274172334453328/00f5ea7752044328a3b56cb331f0782d/artifacts/LGBM_classifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/117274172334453328/00f5ea7752044328a3b56cb331f0782d/artifacts/LGBM_classifier
+user_id: null
+version: 26

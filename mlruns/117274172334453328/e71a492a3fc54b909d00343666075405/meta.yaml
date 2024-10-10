@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/e71a492a3fc54b909d00343666075405/artifacts
+end_time: 1728487653887
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: e71a492a3fc54b909d00343666075405
+run_name: popular-hound-716
+run_uuid: e71a492a3fc54b909d00343666075405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487650659
+status: 3
+tags: []
+user_id: steph

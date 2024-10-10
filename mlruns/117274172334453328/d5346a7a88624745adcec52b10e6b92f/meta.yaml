@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/d5346a7a88624745adcec52b10e6b92f/artifacts
+end_time: 1728487542106
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: d5346a7a88624745adcec52b10e6b92f
+run_name: silent-ape-0
+run_uuid: d5346a7a88624745adcec52b10e6b92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487538814
+status: 3
+tags: []
+user_id: steph

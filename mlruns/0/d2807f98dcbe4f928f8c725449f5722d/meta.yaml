@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d2807f98dcbe4f928f8c725449f5722d/artifacts
+end_time: 1726220772395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2807f98dcbe4f928f8c725449f5722d
+run_name: BaselineModelRun
+run_uuid: d2807f98dcbe4f928f8c725449f5722d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726220767294
+status: 4
+tags: []
+user_id: steph

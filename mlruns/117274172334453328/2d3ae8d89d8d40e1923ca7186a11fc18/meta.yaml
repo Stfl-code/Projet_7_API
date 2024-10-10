@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/2d3ae8d89d8d40e1923ca7186a11fc18/artifacts
+end_time: 1728487662426
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 2d3ae8d89d8d40e1923ca7186a11fc18
+run_name: amusing-goose-213
+run_uuid: 2d3ae8d89d8d40e1923ca7186a11fc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487659166
+status: 3
+tags: []
+user_id: steph

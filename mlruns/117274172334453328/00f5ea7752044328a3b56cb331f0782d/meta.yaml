@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/00f5ea7752044328a3b56cb331f0782d/artifacts
+end_time: 1728487742471
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 00f5ea7752044328a3b56cb331f0782d
+run_name: kindly-tern-321
+run_uuid: 00f5ea7752044328a3b56cb331f0782d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487739205
+status: 3
+tags: []
+user_id: steph

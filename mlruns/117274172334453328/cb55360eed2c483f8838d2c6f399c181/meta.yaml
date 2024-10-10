@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/cb55360eed2c483f8838d2c6f399c181/artifacts
+end_time: 1728487771522
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: cb55360eed2c483f8838d2c6f399c181
+run_name: silent-robin-677
+run_uuid: cb55360eed2c483f8838d2c6f399c181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487767845
+status: 3
+tags: []
+user_id: steph

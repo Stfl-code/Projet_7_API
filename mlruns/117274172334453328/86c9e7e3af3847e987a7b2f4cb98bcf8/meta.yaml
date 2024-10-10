@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/86c9e7e3af3847e987a7b2f4cb98bcf8/artifacts
+end_time: 1728487636648
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 86c9e7e3af3847e987a7b2f4cb98bcf8
+run_name: upbeat-dog-303
+run_uuid: 86c9e7e3af3847e987a7b2f4cb98bcf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487633469
+status: 3
+tags: []
+user_id: steph

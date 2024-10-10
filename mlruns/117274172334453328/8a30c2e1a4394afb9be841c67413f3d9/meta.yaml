@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/8a30c2e1a4394afb9be841c67413f3d9/artifacts
+end_time: 1728487780905
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 8a30c2e1a4394afb9be841c67413f3d9
+run_name: LightGBM BayesOpt - Hyperparameter Tuning
+run_uuid: 8a30c2e1a4394afb9be841c67413f3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487515323
+status: 3
+tags: []
+user_id: steph

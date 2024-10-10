@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728487468965
+current_stage: None
+description: ''
+last_updated_timestamp: 1728487468965
+name: Cutoff_best_value
+run_id: 0b4f3531e8774472abc5d9bf0c81eac7
+run_link: ''
+source: mlflow-artifacts:/323614875043085141/0b4f3531e8774472abc5d9bf0c81eac7/artifacts/LGBMClassifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/323614875043085141/0b4f3531e8774472abc5d9bf0c81eac7/artifacts/LGBMClassifier
+user_id: null
+version: 2

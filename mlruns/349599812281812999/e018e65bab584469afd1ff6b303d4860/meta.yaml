@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349599812281812999/e018e65bab584469afd1ff6b303d4860/artifacts
+end_time: 1725570310183
+entry_point_name: ''
+experiment_id: '349599812281812999'
+lifecycle_stage: active
+run_id: e018e65bab584469afd1ff6b303d4860
+run_name: caring-swan-462
+run_uuid: e018e65bab584469afd1ff6b303d4860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725570305333
+status: 3
+tags: []
+user_id: steph

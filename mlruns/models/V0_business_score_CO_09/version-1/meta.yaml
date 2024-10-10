@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728487480916
+current_stage: None
+description: ''
+last_updated_timestamp: 1728487480916
+name: V0_business_score_CO_09
+run_id: 98dc3f771f804b77aa3ccd19c24fa3ec
+run_link: ''
+source: mlflow-artifacts:/834080143030066055/98dc3f771f804b77aa3ccd19c24fa3ec/artifacts/LGBMClassifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/834080143030066055/98dc3f771f804b77aa3ccd19c24fa3ec/artifacts/LGBMClassifier
+user_id: null
+version: 1

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/834080143030066055
+creation_time: 1728487470369
+experiment_id: '834080143030066055'
+last_update_time: 1728487470369
+lifecycle_stage: active
+name: LGBMClassifier_with_business_score_and_stratify

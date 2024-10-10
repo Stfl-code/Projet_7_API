@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/061596f93c634b008a716d3ce4fac366/artifacts
+end_time: 1728487761718
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 061596f93c634b008a716d3ce4fac366
+run_name: carefree-gull-561
+run_uuid: 061596f93c634b008a716d3ce4fac366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487757924
+status: 3
+tags: []
+user_id: steph

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/0e4126f1d201470cab91d1a2ddf474ad/artifacts
+end_time: 1728487680443
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: 0e4126f1d201470cab91d1a2ddf474ad
+run_name: gaudy-turtle-388
+run_uuid: 0e4126f1d201470cab91d1a2ddf474ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487677223
+status: 3
+tags: []
+user_id: steph

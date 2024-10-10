@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728487486451
+current_stage: None
+description: ''
+last_updated_timestamp: 1728487486451
+name: Stratified Dummy Classifier
+run_id: 3de99833967244d5a1a5f648bfaecfb8
+run_link: ''
+source: mlflow-artifacts:/117274172334453328/3de99833967244d5a1a5f648bfaecfb8/artifacts/dummy_classifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/117274172334453328/3de99833967244d5a1a5f648bfaecfb8/artifacts/dummy_classifier
+user_id: null
+version: 1

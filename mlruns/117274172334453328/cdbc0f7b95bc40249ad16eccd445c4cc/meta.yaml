@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/cdbc0f7b95bc40249ad16eccd445c4cc/artifacts
+end_time: 1728487697991
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: cdbc0f7b95bc40249ad16eccd445c4cc
+run_name: abrasive-ape-729
+run_uuid: cdbc0f7b95bc40249ad16eccd445c4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487694723
+status: 3
+tags: []
+user_id: steph

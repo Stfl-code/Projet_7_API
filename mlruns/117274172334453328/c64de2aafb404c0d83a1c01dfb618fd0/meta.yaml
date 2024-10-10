@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/c64de2aafb404c0d83a1c01dfb618fd0/artifacts
+end_time: 1728487733126
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: c64de2aafb404c0d83a1c01dfb618fd0
+run_name: amazing-ant-630
+run_uuid: c64de2aafb404c0d83a1c01dfb618fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487729860
+status: 3
+tags: []
+user_id: steph

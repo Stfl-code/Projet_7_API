@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/117274172334453328/b21446de17a940e89b95c13ff0256f5c/artifacts
+end_time: 1728487790783
+entry_point_name: ''
+experiment_id: '117274172334453328'
+lifecycle_stage: active
+run_id: b21446de17a940e89b95c13ff0256f5c
+run_name: LightGBM BayesOpt - Best Hyperparameter
+run_uuid: b21446de17a940e89b95c13ff0256f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728487787374
+status: 3
+tags: []
+user_id: steph

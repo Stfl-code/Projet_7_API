@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728487790606
+current_stage: None
+description: ''
+last_updated_timestamp: 1728487790606
+name: LightGBM BayesOpt - Best Hyperparameter
+run_id: b21446de17a940e89b95c13ff0256f5c
+run_link: ''
+source: mlflow-artifacts:/117274172334453328/b21446de17a940e89b95c13ff0256f5c/artifacts/lightgbm_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/117274172334453328/b21446de17a940e89b95c13ff0256f5c/artifacts/lightgbm_model
+user_id: null
+version: 1
