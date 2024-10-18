@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 def load_mlflow_model():
     # Remplacez le chemin par le chemin vers votre modèle MLflow
     model_path = "mlflow_model" 
-    model = mlflow.pyfunc.load_model(model_path)
+    model = mlflow.lightgbm.load_model(model_path)
     return model
 
 # Charger le masque de colonnes
