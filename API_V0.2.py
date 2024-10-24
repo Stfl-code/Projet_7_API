@@ -103,7 +103,7 @@ def plot_gauge(probability, cutoff):
         title={'text': "Probabilité de Défaut (%)"},
         gauge={
             'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "darkblue"},
-            'bar': {'color': "red"},
+            'bar': {'color': "grey"},
             'steps': [
                 {'range': [0, cutoff * 100], 'color': "lightgreen"},
                 {'range': [cutoff * 100, 100], 'color': "red"}
